@@ -1,0 +1,5 @@
+Distance between point and segment:
+https://stackoverflow.com/questions/849211/shortest-distance-between-a-point-and-a-line-segment
+https://matthew-brett.github.io/teaching/vector_projection.html
+https://www.geogebra.org/m/XShfg9r8
+
