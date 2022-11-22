@@ -3,3 +3,4 @@ https://stackoverflow.com/questions/849211/shortest-distance-between-a-point-and
 https://matthew-brett.github.io/teaching/vector_projection.html
 https://www.geogebra.org/m/XShfg9r8
 
+# https://stackoverflow.com/questions/693837/how-to-determine-a-diagonal-is-in-or-out-of-a-concave-polygon
