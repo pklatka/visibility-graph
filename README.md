@@ -1,4 +1,4 @@
-# geometric-algorithms-project
+# Geometric algorithms project
 Visibility graphs - final project for geometric algorithms course at AGH UST
 
 Given task description (in polish):
