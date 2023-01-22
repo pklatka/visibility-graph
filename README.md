@@ -1,5 +1,5 @@
 # Geometric algorithms project
-Visibility graph - final project for geometric algorithms course at AGH UST
+Visibility graph - final project for geometric algorithms course at AGH UST.
 
 Project description (in polish):
 
