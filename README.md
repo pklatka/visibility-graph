@@ -1,7 +1,7 @@
 # Geometric algorithms project
 Visibility graph - final project for geometric algorithms course at AGH UST.
 
-Project description (in polish):
+Project description (in Polish):
 
 > Obliczanie grafu widoczności.
 > Dany jest zbiór rozłącznych wielokątnych przeszkód na płaszczyźnie. Dla tego zbioru
