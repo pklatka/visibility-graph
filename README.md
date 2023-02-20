@@ -1,5 +1,5 @@
 # Geometric algorithms project
-Visibility graph - final project for geometric algorithms course at AGH UST.
+Visibility graph - final project for geometric algorithms course at AGH UST. Notebook markdown cells are in Polish. Graphing tool was provided by course staff, but it was modified to support more features. All cells are cleared. You can run them by yourself or just read the report.
 
 Project description (in Polish):
 
